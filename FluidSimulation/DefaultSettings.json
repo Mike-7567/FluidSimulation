@@ -1,0 +1,22 @@
+{
+    "gravity": 0,
+    "particle_color": [1, 1, 1, 1],
+    "damping_factor": 1,
+    "terminal_velocity": 0.1,
+    "target_density": 1.5,
+    "num_of_particles": 10,
+    "smooth_radius": 1.5,
+    "steps_per_frame": 2,
+    "low_density_color": [0, 0, 1, 1],
+    "high_density_color": [1, 0, 0, 1],
+    "ideal_density_color": [1, 1, 1, 1],
+    "sim_state": 1,
+    "show_density": 0,
+    "bounds": [25, 13, 5],
+    "render_particles": 1,
+    "render_smoothing_radius": 0,
+    "particle_mass": 1,
+    "pressure_multiplier": 0.082,
+    "render_grid": 0,
+    "observed_particle_index": 0
+}
